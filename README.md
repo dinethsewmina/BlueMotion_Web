@@ -179,7 +179,7 @@ http://localhost:3000
 * University of Moratuwa Engineering Students
 * Team BlueMotoin
 * Daneesha Dulmith
-* Dineth Ranaweera
+* Dineth Sewmina
 * Dulshi Ranaweera
 * Lasith Eeshan
 * Thiseni Sineka
